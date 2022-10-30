@@ -11,7 +11,7 @@ I sorted some debugs problems encountered and learnt the basis and strategies to
 
 N/A
 
-## Usage
+## Usage 
 
 As you navigate in the website through Chrome Dev Tool you can use the commands as Console to check all the sections of the languages and topics.
 From the Sources section you will be able to see and scroll down my files and the codes in there.
@@ -27,7 +27,8 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+MIT Licence
+
 
 
 
